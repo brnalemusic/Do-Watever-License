@@ -1,62 +1,64 @@
 <div align="center">
 
+**🌐 English** · [Português (BR)](./README_pt.md)
+
 <img src="assets/banner.svg" alt="DO WHATEVER YOU WANT" width="100%"/>
 
 ![license](https://img.shields.io/badge/license-DO%20WHATEVER%20YOU%20WANT-39ff88?style=for-the-badge)
-![lines](https://img.shields.io/badge/linhas%20da%20licen%C3%A7a-2-ff4d6d?style=for-the-badge)
-![lawyers](https://img.shields.io/badge/advogados%20consultados-0-8b949e?style=for-the-badge)
-![fridge](https://img.shields.io/badge/geladeira-ainda%20quebrada-ffd54f?style=for-the-badge)
+![lines](https://img.shields.io/badge/license%20length-2%20lines-ff4d6d?style=for-the-badge)
+![lawyers](https://img.shields.io/badge/lawyers%20consulted-0-8b949e?style=for-the-badge)
+![fridge](https://img.shields.io/badge/fridge-still%20broken-ffd54f?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📼 Arquivo confidencial: a origem
+## 📼 Classified file: the origin
 
-> **Local:** apartamento sem número  
-> **Data:** uma terça-feira  
-> **Hora:** 03:17  
-> **Testemunhas:** 1 geladeira, 1 tomate, 1 gaivota (não depôs)
+> **Location:** apartment with no number  
+> **Date:** a Tuesday  
+> **Time:** 03:17 AM  
+> **Witnesses:** 1 fridge, 1 tomato, 1 seagull (did not testify)
 
-### Capítulo 1: A geladeira
+### Chapter 1: The fridge
 
-Tudo começou numa geladeira que não gelava.
+It all started with a fridge that didn't cool.
 
-Colado na porta, havia um contrato de garantia de onze páginas. Ninguém tinha lido. Na terceira noite de silêncio, a geladeira pigarreou, e quem ouviu diz que a voz era a de uma senhora que foi dona de cartório em 1974.
+Taped to the door was an eleven-page warranty contract. Nobody had read it. On the third night of silence, the fridge cleared its throat, and those who heard it say the voice belonged to a lady who owned a notary office in 1974.
 
-<p align="center"><img src="assets/fridge.svg" alt="A geladeira" width="340"/></p>
+<p align="center"><img src="assets/fridge.svg" alt="The fridge" width="340"/></p>
 
-> *"Vocês passam a vida escrevendo parágrafos que ninguém entende. Se alguém vai ser responsável por alguma coisa, que seja quem escreveu o código."*
+> *"You spend your lives writing paragraphs nobody understands. If someone is going to be responsible for something, let it be whoever wrote the code."*
 
-O autor tentou argumentar. Citou a Apache. Citou a GPL. A geladeira apagou a luz interna, de propósito, só pra ele sentir.
+The author tried to argue. He cited Apache. He cited the GPL. The fridge turned off its inner light, on purpose, just so he could feel it.
 
-### Capítulo 2: O tomate
+### Chapter 2: The tomato
 
-Como resposta final, a geladeira soltou um ímã em forma de tomate. Ele caiu, quicou duas vezes e rolou até debaixo do sofá.
+As a final answer, the fridge dropped a tomato-shaped magnet. It fell, bounced twice and rolled under the couch.
 
-<p align="center"><img src="assets/tomato.svg" alt="O tomate" width="340"/></p>
+<p align="center"><img src="assets/tomato.svg" alt="The tomato" width="340"/></p>
 
-O tomate ficou lá **seis meses**. Durante esse tempo, o autor percebeu que o tomate tinha uma opinião sobre licenças de software, e que essa opinião era *exatamente a mesma que a dele*. Ninguém sabe como. O tomate não comenta.
+The tomato stayed there for **six months**. During that time, the author realized the tomato had an opinion about software licenses, and that this opinion was *exactly the same as his*. Nobody knows how. The tomato declines to comment.
 
-### Capítulo 3: A gaivota
+### Chapter 3: The seagull
 
-Numa manhã, uma gaivota entrou pela janela, deixou um envelope no parapeito e foi embora sem pedir gorjeta, assinatura ou CPF.
+One morning, a seagull flew in through the window, left an envelope on the sill and flew away without asking for a tip, a signature or a tax ID.
 
-<p align="center"><img src="assets/seagull.svg" alt="A gaivota" width="340"/></p>
+<p align="center"><img src="assets/seagull.svg" alt="The seagull" width="340"/></p>
 
-Dentro do envelope, em tinta verde, uma única frase:
+Inside the envelope, in green ink, a single sentence:
 
 ```
-FAÇA O QUE QUISER.
+DO WHATEVER YOU WANT.
 ```
 
-O autor leu. Leu de novo. Olhou pro tomate. O tomate, de baixo do sofá, não disse nada, o que, vindo dele, foi um *sim*.
+The author read it. Read it again. Looked at the tomato. The tomato, from under the couch, said nothing, which, coming from him, meant *yes*.
 
 ---
 
-## 📜 A licença
+## 📜 The license
 
-Está no arquivo [`LICENSE`](./LICENSE). Tem duas linhas.
+It's in the [`LICENSE`](./LICENSE) file. It has two lines.
 
 ```
 DO WHATEVER YOU WANT WITH THIS SOFTWARE.
@@ -64,36 +66,36 @@ DO WHATEVER YOU WANT WITH THIS SOFTWARE.
 NO WARRANTY. IF IT BREAKS, IT'S YOURS.
 ```
 
-## 🧭 Como usar
+## 🧭 How to use it
 
-| Você quer...        | Pode?         |
-| ------------------- | ------------- |
-| Usar                | Pode          |
-| Copiar              | Pode          |
-| Modificar           | Pode          |
-| Fazer fork          | Pode          |
-| Contribuir          | Pode          |
-| Vender              | Pode          |
-| Reclamar da garantia | Que garantia? |
-| Falar com a geladeira | Por sua conta |
+| You want to...          | Can you?        |
+| ----------------------- | --------------- |
+| Use it                  | Yes             |
+| Copy it                 | Yes             |
+| Modify it               | Yes             |
+| Fork it                 | Yes             |
+| Contribute              | Yes             |
+| Sell it                 | Yes             |
+| Complain about warranty | What warranty?  |
+| Talk to the fridge      | At your own risk |
 
 <details>
-<summary><b>❓ FAQ (clique, se tiver coragem)</b></summary>
+<summary><b>❓ FAQ (click if you dare)</b></summary>
 
-**Isso é uma licença de verdade?**  
-Tem texto, tem copyright e tem uma gaivota por trás. Pra mim já é.
+**Is this a real license?**  
+It has text, it has a copyright line and it has a seagull behind it. Good enough for me.
 
-**Posso usar em projeto comercial?**  
-`DO WHATEVER YOU WANT`. Está escrito.
+**Can I use it in a commercial project?**  
+`DO WHATEVER YOU WANT`. It's right there.
 
-**Preciso citar o autor?**  
-Não. Mas o tomate agradeceria.
+**Do I have to credit the author?**  
+No. But the tomato would appreciate it.
 
-**E se o software der problema?**  
-Segunda linha da licença.
+**What if the software has problems?**  
+Second line of the license.
 
-**A geladeira foi consertada?**  
-Não. Ela diz que está ótima.
+**Was the fridge fixed?**  
+No. It says it's doing great.
 
 </details>
 
@@ -101,6 +103,6 @@ Não. Ela diz que está ótima.
 
 <div align="center">
 
-<sub>Nenhum tomate, gaivota ou geladeira foi prejudicado durante a criação desta licença.</sub>
+<sub>No tomatoes, seagulls or fridges were harmed during the creation of this license.</sub>
 
 </div>
